@@ -1,0 +1,19 @@
+Voici les regles de la bataille navale : 
+
+La bataille navale oppose deux joueurs. 
+Chacun possede une flotte composee de 5 bateaux, qui sont, en general, les suivants : 
+-1 porte-avion (5 cases), 
+-1 croiseur (4 cases), 
+-1 contre-torpilleur (3 cases), 
+-1 sous-marin (3 cases), 
+-1 torpilleur (2 cases).
+
+Au debut du jeu, chaque joueur place ses bateaux sur sa grille,
+celle-ci est toujours numerotee de 1 à 10 verticalement et de A a J horizontalement. 
+Les bateaux ne doivent pas etre colles entre eux. 
+
+Un a un, les joueurs vont "tirer" sur une case de l'adversaire : par exemple, B.3 ou encore H.8. 
+Le but est donc de couler les bateaux adverses. 
+
+Un fonctionnement plus sophistique mettant en oeuvre de la strategie est de tirer une salve :
+Tirer autant de fois que l'on possede de bateau non coule.
